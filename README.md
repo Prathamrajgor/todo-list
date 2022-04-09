@@ -5,12 +5,12 @@ Heroku Link:
 
 ## Usage
 In this app we can:
-1. add any data by clicking the + button
-2. edit existing data by pressing the edit button
-3. delete data by pressing the delete button
+1. Add any data by clicking the + button.
+2. Edit existing data by pressing the edit button.
+3. Delete data by pressing the delete button.
 
 ## Opening the app on local system
-After cloning the repo run npm i and once modules are installed run npm start
+After cloning the repo run npm i and once modules are installed run, npm start.
 
 
 
