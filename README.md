@@ -1,9 +1,9 @@
-### Todo-List App
+# Todo-List App
 This is fully functional and responsive To-do-list made using React, Node js, Express, Mongo DB(mongoose js) and Tailwind CSS.
-##Heroku Link: 
+### Heroku Link: 
  https://todolist-by-pratham.herokuapp.com
 
-## Usage
+### Usage
 In this app we can:
 1. Add any data by clicking the + button.
 2. Edit existing data by pressing the edit button.
