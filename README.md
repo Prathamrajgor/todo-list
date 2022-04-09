@@ -10,7 +10,7 @@ In this app we can:
 3. delete data by pressing the delete button
 
 ## Opening the app on local system
-After cloning the repo run #npm i and once modules are installed run #npm start
+After cloning the repo run npm i and once modules are installed run npm start
 
 
 
